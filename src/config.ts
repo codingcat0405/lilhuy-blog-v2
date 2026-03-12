@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://github.com/lilhuy0405",
   desc: "Lilhuy's personal blog - Where I share my thoughts, projects, and experiences.",
   title: "Lilhuy's Blog",
-  ogImage: "coddingcat.jpeg",
+  ogImage: "og.png",
   lightAndDarkMode: true,
   postPerIndex: 6,
   postPerPage: 9,
