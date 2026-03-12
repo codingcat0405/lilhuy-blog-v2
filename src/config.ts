@@ -7,7 +7,7 @@ export const SITE = {
   ogImage: "coddingcat.jpeg",
   lightAndDarkMode: true,
   postPerIndex: 6,
-  postPerPage: 8,
+  postPerPage: 9,
   scheduledPostMargin: 15 * 60 * 1000, // 15 minutes
   showArchives: true,
   showGalleries: true,
