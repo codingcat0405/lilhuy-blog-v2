@@ -3,28 +3,33 @@ layout: ../layouts/AboutLayout.astro
 title: "About"
 ---
 
-Bienvenido a mi rincón digital. Soy un **desarrollador** y **estudiante** apasionado por la tecnología, los videojuegos y construir cosas que vivan en internet.
+👋 Hi, I'm Huy — aka **Lil Huy, The Coding Cat**
 
-## ¿Quién soy?
+Full Stack Developer · DevOps · Blockchain Enthusiast · Lifelong Learner
 
-Me llamo Andrés, y desde que recuerdo siempre tuve curiosidad por entender cómo funcionan las cosas — desde desarmar juguetes de niño hasta desarmar código ajeno a las 2 AM. Actualmente estudio ingeniería mientras desarrollo proyectos que me retan a aprender algo nuevo cada día.
+---
 
-Cuando no estoy programando, probablemente estoy en algún mundo virtual explorando mapas, completando misiones o compitiendo online. Los videojuegos no solo son mi hobby, también me enseñaron a resolver problemas, trabajar en equipo y, sobre todo, a no rendirme después del intento #847.
+## Who am I?
 
-## Lo que hago
+I'm a developer who genuinely enjoys the craft — not just writing code, but understanding *why* things work the way they do. I started tinkering with code out of curiosity, and that curiosity never really stopped.
 
-- **Desarrollo web** — Me encanta construir experiencias web modernas con tecnologías como Astro, React, TypeScript y todo lo que el ecosistema JavaScript tiene para ofrecer.
-- **Open Source** — Creo en el poder del código abierto. Puedes encontrar mis proyectos en [GitHub](https://github.com/0xdres/).
-- **Aprendizaje continuo** — Siempre estoy explorando nuevas herramientas, frameworks y conceptos. La tecnología evoluciona rápido y me gusta ir al ritmo.
+When I'm not building things, I'm probably exploring a new framework, breaking something in a side project, or deep in a game at 2 AM.
 
-## Gaming
+## What I do
 
-Los videojuegos son parte de mi ADN. Desde RPGs épicos hasta shooters competitivos, disfruto prácticamente cualquier género. Es ese espacio donde la creatividad se encuentra con la estrategia y la diversión pura.
+- **Full Stack Development** — From frontend interfaces to backend APIs, I work across the whole stack. My go-to tools include React, Node.js, TypeScript, and whatever else the problem calls for.
+- **DevOps** — CI/CD pipelines, containerization, cloud infra — I care about how code ships, not just how it's written.
+- **Blockchain** — Smart contracts, decentralized apps, and the weird rabbit holes that come with Web3.
+- **Always learning** — New tech, new tools, new ideas. If it's interesting, I'll try it.
 
-## Este blog
+## This blog
 
-**Devosfera** nació como un espacio para documentar mi viaje como desarrollador, compartir lo que aprendo y conectar con personas que comparten las mismas pasiones. Aquí encontrarás posts sobre desarrollo, tecnología, y alguna que otra reflexión random de madrugada.
+**Lilhuy's Blog** is where I document the real stuff — not just tutorials, but actual experience from working on real projects. The wins, the debugging nightmares, the "why does this work now" moments.
 
-Si quieres conectar, no dudes en encontrarme en [GitHub](https://github.com/0xdres/), [X](https://x.com/avdyen) o [LinkedIn](https://www.linkedin.com/in/avdyan/). Siempre es bueno conocer gente cool de la comunidad.
+If something I learned saves you an hour of headache, that's the whole point.
 
-> _"El código es poesía, pero con más puntos y comas."_ — Yo, probablemente
+---
+
+Find me on [GitHub](https://github.com/lilhuy0405/) · [X](https://x.com/lilhuy0405) · [LinkedIn](https://www.linkedin.com/in/lilhuy0405/)
+
+> *"Ship it, learn from it, repeat."*
