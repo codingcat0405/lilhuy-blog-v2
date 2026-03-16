@@ -7,7 +7,7 @@ tags:
   - redux
   - typescript
   - vite
-featured: true
+featured: false
 draft: false
 ---
 

@@ -5,7 +5,7 @@ pubDatetime: 2025-08-15
 tags:
   - devops
   - devops-series
-featured: false
+featured: true
 draft: false
 ---
 

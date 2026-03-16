@@ -5,7 +5,7 @@ description: 'Just overview some concepts and terminologies in DevOps that I thi
 tags:
  - devops, 
  - devops-series
-featured: false
+featured: true
 draft: false
 ---
 

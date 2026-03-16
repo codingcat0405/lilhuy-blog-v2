@@ -5,7 +5,7 @@ pubDatetime: 2026-03-16
 tags:
   - devops
   - devops-series
-featured: false
+featured: true
 draft: false
 ---
 

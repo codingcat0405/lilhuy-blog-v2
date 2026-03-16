@@ -6,7 +6,7 @@ tags:
   - devops
   - devops-series
 
-featured: false
+featured: true
 draft: false
 ---
 
