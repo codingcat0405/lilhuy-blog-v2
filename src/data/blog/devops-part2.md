@@ -170,4 +170,4 @@ Thanks for reading. See you in the next chapter!
 
 | Previous Chapter                                |               Series Info                |                                                                   Next Chapter |
 | :---------------------------------------------- | :--------------------------------------: | -----------------------------------------------------------------------------: |
-| **[← Previous Chapter](./devops-part1)**<br>**📚 Some concepts and terminologies** | **DevOps Series**<br>**Chapter 2 of 16** | **[Next Chapter →](./devops-part3)**<br>**🐳 Docker and the world of containerization** |
+| **[← Previous Chapter](/posts/devops-part1)**<br>**📚 Some concepts and terminologies** | **DevOps Series**<br>**Chapter 2 of 16** | **[Next Chapter →](/posts/devops-part3)**<br>**🐳 Docker and the world of containerization** |

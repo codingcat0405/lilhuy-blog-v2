@@ -38,4 +38,4 @@ draft: true
 
 | Previous Chapter                                |               Series Info                |                                                                   Next Chapter |
 | :---------------------------------------------- | :--------------------------------------: | -----------------------------------------------------------------------------: |
-| **[← Previous Chapter](./devops-part9)**<br>**☁️ Harvester HCI the native cloud** | **DevOps Series**<br>**Chapter 10 of 16** | **[Next Chapter →](./devops-part11)**<br>**🖥️ Promox VE the best VM manager** |
+| **[← Previous Chapter](/posts/devops-part9)**<br>**☁️ Harvester HCI the native cloud** | **DevOps Series**<br>**Chapter 10 of 16** | **[Next Chapter →](/posts/devops-part11)**<br>**🖥️ Promox VE the best VM manager** |

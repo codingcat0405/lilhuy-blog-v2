@@ -264,4 +264,4 @@ This blog covers Docker basics and common features. Docker has many advanced fea
 
 | Previous Chapter                                |               Series Info                |                                                                   Next Chapter |
 | :---------------------------------------------- | :--------------------------------------: | -----------------------------------------------------------------------------: |
-| **[← Previous Chapter](./devops-part2)**<br>**🚀 A noob guy deploy his web app** | **DevOps Series**<br>**Chapter 3 of 16** | **[Next Chapter →](./devops-part4)**<br>**☸️ K8s in a nutshell** |
+| **[← Previous Chapter](/posts/devops-part2)**<br>**🚀 A noob guy deploy his web app** | **DevOps Series**<br>**Chapter 3 of 16** | **[Next Chapter →](/posts/devops-part4)**<br>**☸️ K8s in a nutshell** |

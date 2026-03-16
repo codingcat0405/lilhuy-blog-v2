@@ -38,4 +38,4 @@ draft: true
 
 | Previous Chapter                                |               Series Info                |                                                                   Next Chapter |
 | :---------------------------------------------- | :--------------------------------------: | -----------------------------------------------------------------------------: |
-| **[← Previous Chapter](./devops-part8)**<br>**⚡ MicroK8s the simple and powerful K8s** | **DevOps Series**<br>**Chapter 9 of 16** | **[Next Chapter →](./devops-part10)**<br>**🏭 More about Harvester HCI** |
+| **[← Previous Chapter](/posts/devops-part8)**<br>**⚡ MicroK8s the simple and powerful K8s** | **DevOps Series**<br>**Chapter 9 of 16** | **[Next Chapter →](/posts/devops-part10)**<br>**🏭 More about Harvester HCI** |

@@ -38,4 +38,4 @@ draft: true
 
 | Previous Chapter                                |               Series Info                |                                                                   Next Chapter |
 | :---------------------------------------------- | :--------------------------------------: | -----------------------------------------------------------------------------: |
-| **[← Previous Chapter](./devops-part5)**<br>**🔧 K8s in details** | **DevOps Series**<br>**Chapter 6 of 16** | **[Next Chapter →](./devops-part7)**<br>**🐧 Ubuntu server and the world of Linux** |
+| **[← Previous Chapter](/posts/devops-part5)**<br>**🔧 K8s in details** | **DevOps Series**<br>**Chapter 6 of 16** | **[Next Chapter →](/posts/devops-part7)**<br>**🐧 Ubuntu server and the world of Linux** |

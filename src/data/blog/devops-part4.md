@@ -314,4 +314,4 @@ Kubernetes might seem complex at first, but it's just a container orchestrator t
 
 | Previous Chapter                                |               Series Info                |                                                                   Next Chapter |
 | :---------------------------------------------- | :--------------------------------------: | -----------------------------------------------------------------------------: |
-| **[← Previous Chapter](./devops-part3)**<br>**🐳 Docker and the world of containerization** | **DevOps Series**<br>**Chapter 4 of 16** | **[Next Chapter →](./devops-part5)**<br>**🔧 K8s in details** |
+| **[← Previous Chapter](/posts/devops-part3)**<br>**🐳 Docker and the world of containerization** | **DevOps Series**<br>**Chapter 4 of 16** | **[Next Chapter →](/posts/devops-part5)**<br>**🔧 K8s in details** |

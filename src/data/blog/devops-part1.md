@@ -71,4 +71,4 @@ You don't need to understand all of these now. Let's just go to the next step of
 
 | Previous Chapter                                |               Series Info                |                                                                   Next Chapter |
 | :---------------------------------------------- | :--------------------------------------: | -----------------------------------------------------------------------------: |
-| **[← Previous Chapter](./devops-part0)**<br>**📖 Introduction and Stories** | **DevOps Series**<br>**Chapter 1 of 16** | **[Next Chapter →](./devops-part2)**<br>**🚀 A noob guy deploy his web app** |
+| **[← Previous Chapter](/posts/devops-part0)**<br>**📖 Introduction and Stories** | **DevOps Series**<br>**Chapter 1 of 16** | **[Next Chapter →](/posts/devops-part2)**<br>**🚀 A noob guy deploy his web app** |

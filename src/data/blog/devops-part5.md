@@ -38,4 +38,4 @@ draft: true
 
 | Previous Chapter                                |               Series Info                |                                                                   Next Chapter |
 | :---------------------------------------------- | :--------------------------------------: | -----------------------------------------------------------------------------: |
-| **[← Previous Chapter](./devops-part4)**<br>**☸️ K8s in a nutshell** | **DevOps Series**<br>**Chapter 5 of 16** | **[Next Chapter →](./devops-part6)**<br>**🏠 Before go to the ground** |
+| **[← Previous Chapter](/posts/devops-part4)**<br>**☸️ K8s in a nutshell** | **DevOps Series**<br>**Chapter 5 of 16** | **[Next Chapter →](/posts/devops-part6)**<br>**🏠 Before go to the ground** |

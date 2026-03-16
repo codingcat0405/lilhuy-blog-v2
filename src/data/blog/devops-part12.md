@@ -38,4 +38,4 @@ draft: true
 
 | Previous Chapter                                |               Series Info                |                                                                   Next Chapter |
 | :---------------------------------------------- | :--------------------------------------: | -----------------------------------------------------------------------------: |
-| **[← Previous Chapter](./devops-part11)**<br>**🖥️ Promox VE the best VM manager** | **DevOps Series**<br>**Chapter 12 of 16** | **[Next Chapter →](./devops-part13)**<br>**🛠️ Some tools, services that you can installed for your devops pipeline** |
+| **[← Previous Chapter](/posts/devops-part11)**<br>**🖥️ Promox VE the best VM manager** | **DevOps Series**<br>**Chapter 12 of 16** | **[Next Chapter →](/posts/devops-part13)**<br>**🛠️ Some tools, services that you can installed for your devops pipeline** |

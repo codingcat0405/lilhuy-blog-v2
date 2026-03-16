@@ -38,4 +38,4 @@ draft: true
 
 | Previous Chapter                                |               Series Info                |                                                                   Next Chapter |
 | :---------------------------------------------- | :--------------------------------------: | -----------------------------------------------------------------------------: |
-| **[← Previous Chapter](./devops-part14)**<br>**🌍 Hello Internet with Cloudflare Zero Trust** | **DevOps Series**<br>**Chapter 15 of 16** | **No next chapter**<br>*End of series* |
+| **[← Previous Chapter](/posts/devops-part14)**<br>**🌍 Hello Internet with Cloudflare Zero Trust** | **DevOps Series**<br>**Chapter 15 of 16** | **No next chapter**<br>*End of series* |

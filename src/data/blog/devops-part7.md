@@ -38,4 +38,4 @@ draft: true
 
 | Previous Chapter                                |               Series Info                |                                                                   Next Chapter |
 | :---------------------------------------------- | :--------------------------------------: | -----------------------------------------------------------------------------: |
-| **[← Previous Chapter](./devops-part6)**<br>**🏠 Before go to the ground** | **DevOps Series**<br>**Chapter 7 of 16** | **[Next Chapter →](./devops-part8)**<br>**⚡ MicroK8s the simple and powerful K8s** |
+| **[← Previous Chapter](/posts/devops-part6)**<br>**🏠 Before go to the ground** | **DevOps Series**<br>**Chapter 7 of 16** | **[Next Chapter →](/posts/devops-part8)**<br>**⚡ MicroK8s the simple and powerful K8s** |

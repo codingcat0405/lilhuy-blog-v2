@@ -38,4 +38,4 @@ draft: true
 
 | Previous Chapter                                                                        |               Series Info                |                                                                  Next Chapter |
 | :-------------------------------------------------------------------------------------- | :--------------------------------------: | ----------------------------------------------------------------------------: |
-| **[← Previous Chapter](./devops-part7)**<br>**🐧 Ubuntu server and the world of Linux** | **DevOps Series**<br>**Chapter 8 of 16** | **[Next Chapter →](./devops-part9)**<br>**☁️ Harvester HCI the native cloud** |
+| **[← Previous Chapter](/posts/devops-part7)**<br>**🐧 Ubuntu server and the world of Linux** | **DevOps Series**<br>**Chapter 8 of 16** | **[Next Chapter →](/posts/devops-part9)**<br>**☁️ Harvester HCI the native cloud** |

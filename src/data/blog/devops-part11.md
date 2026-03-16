@@ -38,4 +38,4 @@ draft: true
 
 | Previous Chapter                                |               Series Info                |                                                                   Next Chapter |
 | :---------------------------------------------- | :--------------------------------------: | -----------------------------------------------------------------------------: |
-| **[← Previous Chapter](./devops-part10)**<br>**🏭 More about Harvester HCI** | **DevOps Series**<br>**Chapter 11 of 16** | **[Next Chapter →](./devops-part12)**<br>**🌐 Turn a server into a router with Pfsense** |
+| **[← Previous Chapter](/posts/devops-part10)**<br>**🏭 More about Harvester HCI** | **DevOps Series**<br>**Chapter 11 of 16** | **[Next Chapter →](/posts/devops-part12)**<br>**🌐 Turn a server into a router with Pfsense** |

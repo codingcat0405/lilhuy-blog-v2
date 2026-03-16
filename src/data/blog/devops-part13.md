@@ -38,4 +38,4 @@ draft: true
 
 | Previous Chapter                                |               Series Info                |                                                                   Next Chapter |
 | :---------------------------------------------- | :--------------------------------------: | -----------------------------------------------------------------------------: |
-| **[← Previous Chapter](./devops-part12)**<br>**🌐 Turn a server into a router with Pfsense** | **DevOps Series**<br>**Chapter 13 of 16** | **[Next Chapter →](./devops-part14)**<br>**🌍 Hello Internet with Cloudflare Zero Trust** |
+| **[← Previous Chapter](/posts/devops-part12)**<br>**🌐 Turn a server into a router with Pfsense** | **DevOps Series**<br>**Chapter 13 of 16** | **[Next Chapter →](/posts/devops-part14)**<br>**🌍 Hello Internet with Cloudflare Zero Trust** |

@@ -38,4 +38,4 @@ draft: true
 
 | Previous Chapter                                |               Series Info                |                                                                   Next Chapter |
 | :---------------------------------------------- | :--------------------------------------: | -----------------------------------------------------------------------------: |
-| **[← Previous Chapter](./devops-part13)**<br>**🛠️ Some tools, services that you can installed for your devops pipeline** | **DevOps Series**<br>**Chapter 14 of 16** | **[Next Chapter →](./devops-part15)**<br>**🎉 Maybe it the end of the series** |
+| **[← Previous Chapter](/posts/devops-part13)**<br>**🛠️ Some tools, services that you can installed for your devops pipeline** | **DevOps Series**<br>**Chapter 14 of 16** | **[Next Chapter →](/posts/devops-part15)**<br>**🎉 Maybe it the end of the series** |

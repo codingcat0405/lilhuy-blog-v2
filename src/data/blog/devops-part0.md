@@ -81,4 +81,4 @@ Let's start with the first chapter: [Chapter 1: Some concepts and terminologies]
 
 | Previous Chapter                                |               Series Info                |                                                                   Next Chapter |
 | :---------------------------------------------- | :--------------------------------------: | -----------------------------------------------------------------------------: |
-| **← Previous Chapter**<br>_No previous chapter_ | **DevOps Series**<br>**Chapter 0 of 16** | **[Next Chapter →](./devops-part1)**<br>**📚 Some concepts and terminologies** |
+| **← Previous Chapter**<br>_No previous chapter_ | **DevOps Series**<br>**Chapter 0 of 16** | **[Next Chapter →](/posts/devops-part1)**<br>**📚 Some concepts and terminologies** |
